@@ -1,3 +1,13 @@
-h1 {
-  font-family: arial;
+body{
+  font-family: "Open Sans", sans-serif;
+}
+.section1 {
+  color: white;
+  text-align: center;
+  padding: 15%;
+  background-image: url("https://img.freepik.com/free-photo/high-angle-beautiful-buildings-nighttime_23-2149444909.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: cover; 
 }
